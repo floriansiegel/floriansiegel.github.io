@@ -1,1 +1,22 @@
 
+---
+
+layout: default
+
+modal-id: 7
+
+date: 2022-10-20
+
+img: dessin-7-s.jpg
+
+alt: image-alt
+
+project-date: August 2022
+
+client: None
+
+category: Dessin
+
+description: Dessin au crayon sépia et crayon blanc sur papier kraft
+
+---
