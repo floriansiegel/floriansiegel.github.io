@@ -1,10 +1,10 @@
 # Site settings
-title: Artist
+title: Florian Siegel
 email: fpsiegel@gmail.com
 url: https://floriansiegel.github.io 
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Florian Siegel - Portfolio"
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Dessinateur"
 meta_author: Siegel Florian
 
 # Google webmaster tools
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Florian Siegel
-  location: Montreuil, 93100
+  location: Adress
   social: Around the Web
   credits: Credits
 
@@ -41,8 +41,8 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
+  - title: instagram
+    url: https://www.instagram.com/flocantdraw/
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Montreuil, 93100
+  - line: 
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
