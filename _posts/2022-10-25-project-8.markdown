@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 6
-date: 2014-07-15
+modal-id: 8
+date: 2022-10-25
 img: Dessin-8-s.jpg
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+alt: Dessin-8-s.jpg
+project-date: Novembre 2022
+client: Pratique
+category: Croquis
 description: Petite après-midi en normandie
 ---
