@@ -1,1 +1,11 @@
-
+---
+layout: default
+modal-id: 15
+date: 2022-10-26
+img: dessin15.jpg
+alt: dessin15.jpg
+project-date: Novembre 2022
+client: Pratique
+category: Peinture
+description: Peinture à l'huile avec modèle professionel..
+---
