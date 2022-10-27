@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 28
+date: 2022-10-26
+img: dessin28.jpg
+alt: dessin28.jpg
+project-date: Novembre 2022
+client: Pratique
+category: Dessin
+description: à venir
+---
