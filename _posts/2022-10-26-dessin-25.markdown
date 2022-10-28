@@ -5,7 +5,7 @@ date: 2022-10-26
 img: dessin25.jpg
 alt: dessin25.jpg
 project-date: Novembre 2022
-client: Pratique
+client: Aucun
 category: Dessin
-description: à venir
+description: Portrait d'après photo. Fait à l'aquarelle.
 ---
