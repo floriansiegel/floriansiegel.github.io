@@ -5,7 +5,7 @@ date: 2014-07-18
 img: dessin-1-S.jpg
 alt: image-alt
 project-date: April 2014
-client: Auncun
+client: Aucun
 category: Dessin
 description: Portait d'après photo. Graphite et crayon blanc sur papier Kraft.
 ---
