@@ -5,7 +5,7 @@ date: 2022-10-26
 img: dessin31.jpg
 alt: dessin31.jpg
 project-date: Novembre 2022
-client: Pratique
+client: Auncun
 category: Dessin
-description: à venir
+description: Paysage à l'aquarelle d'après photo.
 ---
