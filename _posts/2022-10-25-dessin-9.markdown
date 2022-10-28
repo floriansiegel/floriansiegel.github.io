@@ -5,7 +5,7 @@ date: 2022-10-25
 img: dessin-9-s.jpg
 alt: dessin-9-s.jpg
 project-date: Novembre 2022
-client: Pratique
+client: Aucun
 category: Croquis
 description: Petite scène imaginée
 ---
