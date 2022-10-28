@@ -5,7 +5,7 @@ date: 2022-10-26
 img: dessin27.jpg
 alt: dessin27.jpg
 project-date: Novembre 2022
-client: Pratique
+client: Aucun
 category: Dessin
 description: Portait au crayon 6B et crayon blanc d'après photo.
 ---
