@@ -5,7 +5,7 @@ date: 2022-10-26
 img: dessin21.jpg
 alt: dessin21.jpg
 project-date: Novembre 2022
-client: Pratique
+client: Aucun
 category: Dessin
-description: à venir
+description: Portait d'imagination au crayon.
 ---
